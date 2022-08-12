@@ -52,6 +52,15 @@
     position: relative;
 }
 
+.banner-mini-text{
+    position: absolute;
+    bottom: 15px;
+    right: 20px;
+    color: #FFFEFE;
+    font-weight: 400;
+    font-size: 12px;
+}
+
 .banner-text--white {
     color: #fff;
 }
